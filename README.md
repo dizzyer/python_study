@@ -1,0 +1,3 @@
+# python_study
+开始学习python
+主要跟着嵩天老师的python教程写的一些代码，当作个人学习的足迹吧
